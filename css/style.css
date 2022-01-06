@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav ul li a{ 
+    margin-right: 10px;
+}
+nav a img{
+    padding: 10px;
+    margin-top: 5px;
+}
+#body-card{
+    padding-top: 55px;
+}
+#body-card .card{
+    height: 450px;
+    margin-top: 65px;
+    display: block;
+    background-color: #FCEAE8;
+}
+
+#body-card .card .card-body{
+   padding-top: 125px;
+   padding-left: 60px;
+
+}
+#body-card .card .card-body h4{
+    font-size: 35px;
+    font-family: inherit;
+    font-weight: 600;
+}
+#body-card .card-body h1{
+    color:  #FF297D;
+    font-weight: 650;
+    padding-top: 17px;
+}
+#body-card .card-body .frst-button{
+    padding-top: 10px;
+    display: block;
+}
+#body-card .card-body button{
+    background-color: #FF297D;
+    color: white;
+    font-weight: 600;
+    height: 45px;
+    width: 125px;
+    font-size: 23px;
+    transition: 0.6s;
+    overflow: hidden;
+}
+#body-card .card-body button:hover{
+    transform: scale(1.1);
+}
+#body-card .card img{
+    float: right;
+    height: 500px;
+    width: 500px;
+    padding: 25px;
+    overflow: hidden;
+    transition: 0.6s;
+}
+#body-card .card:hover img{
+    transform: scale(1.1);
+}
+#card2{
+    padding-top: 60px;
+    padding-left: 15px;
+}
+#card2 .card{
+    padding-left: 15px;
+    padding-top: 10px;
+    display: block;
+    height: 115px;
+    width: 330px;
+    border-radius: 7px;
+}
+#card2 p{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: inherit;
+}
+#card2 img{
+    height: 90px;
+    width: 90px;
+    float: right;
+    padding-top: 10px;
+}
+#card2 .card{
+    overflow: hidden;
+    transition: 0.6s;
+}
+#card2 .card:hover{
+    transform: scale(1.1);
+
+}
+.text1{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    display: block;
+}
+#card3{
+    margin-top: 20px;
+}
+#card3 .card{
+    box-shadow: 2px 2px 10px rgb(230, 226, 226) ;
+    width: 350px;
+ 
+}
+#card3 button{
+    background-color: #FF4C93;
+    font-weight: 600;
+    font-family: inherit;
+    font-size: 20px;
+    margin-top: 5px;
+    color: white;
+    transition: 0.6s;
+    overflow: hidden;
+}
+#card3 button:hover{
+    scale: 1.1;
+}
+#card3 h3{
+    font-size: 25px;
+    font-weight: 700;
+}
+#card3 .card img{
+    overflow: hidden;
+    transition: 0.6s;
+}
+#card3 .card:hover img{
+    transform: scale(1.1);
+
+}
+.text2{
+    padding: 15px;
+}
+
+#card4 .card{
+    box-shadow: 2px 2px 10px rgb(230, 226, 226) ;
+    width: 350px;
+ 
+}
+#card4 button{
+    background-color: #FF4C93;
+    font-weight: 600;
+    font-family: inherit;
+    font-size: 20px;
+    margin-top: 5px;
+    color: white;
+    transition: 0.6s;
+    overflow: hidden;
+}
+#card4 button:hover{
+   transform: scale(1.1);
+}
+#card4 h3{
+    font-size: 25px;
+    font-weight: 700;
+}
+#card4 .card img{
+    overflow: hidden;
+    transition: 0.6s;
+}
+#card4 .card:hover img{
+    transform: scale(1.1);
+
+}
+#last-card{
+    margin-top: 30px;
+    margin-bottom: 17px;
+}
+#last-card .card{
+    height: 350px;
+    background-color: #FCEAE8;
+}
+#last-card .card-body{
+     padding-top: 100px;
+     display: block;
+}
+#last-card input{
+     height: 47px;
+     width: 290px;
+}
+#last-card .lst-button{
+    padding-left: 160px;
+    display: block;
+    padding-top: 15px;
+}
+#last-card .lst-button button{
+    background-color: white;
+    color: #FF4C93;
+    border: 2px solid #FF4C93;
+}
+#last-card .lst-button button:hover{
+    background-color: #FF4C93;
+    color: white;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+#hadi-alamin{
+    margin-bottom: 20px;
+}
